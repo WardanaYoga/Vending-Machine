@@ -1,0 +1,13 @@
+
+1. Clone Repository 
+git clone https://github.com/tatobari/hx711py
+
+2. Pindah ke direktori
+cd hx711py
+
+3. install libary tersebut
+sudo python3 setup.py install
+
+4. Run program Kalibrasi.py
+
+5. After that, recode the example
