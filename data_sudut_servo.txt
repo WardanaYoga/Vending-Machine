@@ -1,0 +1,15 @@
+servo 0 40 derajat
+servo 1 40 derajat
+
+driver pwm servo 0 40 derjat
+driver pwm servo 1 75 derjat
+
+driver pwm servo 2 
+sudut awal 	30 derajat
+membuka		90 derajat 
+menendang	0  derajat
+
+driver pwm servo 4 
+sudut awal	70 derajat
+membuka		100  derajat
+menendang	30  derajat

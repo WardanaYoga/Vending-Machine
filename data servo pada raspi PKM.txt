@@ -1,0 +1,9 @@
+pwm nyambung ke 5v berapa tegangan input yang ingin di tambah
+relay switch ke pwm
+
+membuka pintu servo 1
+menahan botol setelah membuka pintu servo 2
+menahan botol pada sensor proxymiti servo 3
+melemparkan botol jika botol kecil servo 4
+melemparkan botol jika salah servo 5
+melemparkan botol jika benar servo 6

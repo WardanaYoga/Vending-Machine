@@ -1,0 +1,19 @@
+1. Memulai Kalibrasi Semua komponen
+2. Buat Folder pada raspi 
+4. install kalibrasi
+5. kalibrasi mulai dari awal 
+6. gabung program kalibrasi
+
+#c20a0a merah
+#ff6401 orange
+
+proximity2 = tidak terpakai
+untuk pintu servo 12
+untuk menahan memakai pin servo 13
+untuk menahan pada pembacaan proxy pwm servo 1
+untuk membuang pada pembacaan proxy pwm servo 0
+untuk memasukkan botol ke sampah pwm servo 3
+untuk membuang botol ke sampah pwm servo 4
+
+
+

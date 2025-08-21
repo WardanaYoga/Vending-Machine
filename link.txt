@@ -1,0 +1,12 @@
+sensor raindrop
+https://esp32io.com/tutorials/esp32-rain-sensor
+
+sensor LDR
+https://www.youtube.com/watch?v=RfGlCxn0jlQ&t=312s
+https://www.youtube.com/watch?v=jPtnShP22ek
+
+Motor Stepper
+https://www.youtube.com/watch?v=jPtnShP22ek
+
+Drone dengan raspi
+https://www.youtube.com/watch?v=bDN7vV50rSss

@@ -1,0 +1,50 @@
+1. membuat window
+2. mengatur title windows
+3. mengatur luas windows
+4. mengatur posisi windows
+5. Disable maximase windows
+
+
+event dan binding
+kondisi Ketika mouse dan keyboard dioperasikan
+
+Layout Management di TKINTER
+pengjelasan tkinter memiliki tiga layout manager yang menggunakan metode eometris untuk memposisikan widget
+dalam bingkai aplikasi seperti pack, place, dan grid setiap kode tersebut memiliki persyaratan pengkodean yang berbeda
+
+Pack
+adalah layout manager termudah untuk diterapkan  tkinter
+pack() mengatur widget dalam kotak horizontal dan vertical yang terbatas pada posisi kiri, kanan, atas, Bawah, offside
+dan relative satu sama lain dalam bingkai 
+
+Option : side, fill, expand, padx, pady, ipadx, ipady
+
+Grid
+Grid() menempatkan widget dalam tabel 2 dimensi. Widget master dibagi menjadi beberapa baris dan kolom dan setiap
+"sel" di tabel yang dihasilkan dapat menampung widget
+
+grid() adalah yang paling fleksibel dari manajer geometri di Tkinter
+
+option : stciky, column, row, columnspan, rowspan, padx, pady, ipadx, ipady
+
+Place
+place() memungkinkan anda memposisikan widget dengan tepat di dalam window menggunakan system koordinat(x,y)
+option: x, y, relx, rely, relwidth, relheight,anchor,bordermode, height dan width
+
+
+Widget Button:
+widget option list
+methode invoke() --> digunakan untuk mengeksekusi pada button atau melakukan klik pada button
+lambada untuk mengirimkan argument
+
+
+Tkinter (tk):
+
+tkinter adalah modul standar Python untuk membuat antarmuka grafis pengguna (GUI).
+Ini menyediakan berbagai widget dasar seperti tombol (Button), label (Label), dan entri (Entry).
+Widget yang disediakan oleh tkinter memiliki gaya yang lebih sederhana dan kurang modern dibandingkan dengan ttk.
+Tkinter Ttk (ttk):
+
+ttk adalah sub-modul dari tkinter yang menyediakan widget yang lebih bergaya dan lebih modern.
+ttk memperkenalkan beberapa widget tambahan seperti Combobox, Treeview, dan Notebook.
+Widget ttk mendukung tema, sehingga memungkinkan Anda untuk mengubah tampilan aplikasi dengan mudah menggunakan berbagai tema yang tersedia.
